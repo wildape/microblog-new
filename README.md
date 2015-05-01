@@ -40,4 +40,7 @@
 	使用mocha学习测试
 	使用mongodb以及一些连接池技术来熟悉NoSql
 
-====
+>项目状态
+
+	未完成
+	mongodb&mocha&mongoose还存在一些问题
